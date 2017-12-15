@@ -17,9 +17,9 @@ A collection of asserts for Golang's builtin "testing" library.
 
 1. Clone the repo into the "src" dir in your go workspace:
 
-    cd $(go env GOPATH)/src
-    git clone git@github.com:aschmied/assert.git
-    go install github.com/aschmied/assert
+        cd $(go env GOPATH)/src
+        git clone git@github.com:aschmied/assert.git
+        go install github.com/aschmied/assert
 
 ## License: 2-clause BSD
 
